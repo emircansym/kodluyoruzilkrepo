@@ -1,2 +1,1 @@
-# kodluyoruzilkrepo
-Kodluyoruz Front-End Eğitimi kapsamında açtığım ilk repo
+![alt text](https://cdn.fonzip.com/public/kodluyoruz/img/fundraising/27971846_748761281998348_2999043640998413504_n_1571837933301.png)
